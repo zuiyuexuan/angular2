@@ -3,6 +3,7 @@ node_modules
 typings
 .idea/
 *.js
+!*systemjs.config.js
 *.map
 *.log
 
