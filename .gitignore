@@ -1,0 +1,8 @@
+# angularjs2
+node_modules
+typings
+.idea/
+*.js
+*.map
+*.log
+
